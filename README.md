@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Attila Kékesi CV DE](#attila_kekesi_cv_de)
+[Attila Kékesi CV DE](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_cv_de.pdf)
 
 <!--
 **akekesi/akekesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
