@@ -11,10 +11,10 @@
 ![SoliWorks](https://img.shields.io/badge/SolidWorks-✔✔✔✔✔-blue)
 ![Pro/Engineer](https://img.shields.io/badge/ProEngineer-✔✔-blue)
 
-![Shell Script](https://img.shields.io/badge/Shell_Script-✔✔✔-blue)
 ![Linux](https://img.shields.io/badge/Linux-✔✔✔-blue)
+![Shell Script](https://img.shields.io/badge/Shell_Script-✔✔✔-blue)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-✔✔-blue)
-</div>  
+</div>
 
 ---
 
@@ -24,7 +24,7 @@ ich bin Attila Kékesi – ein erfahrener Entwickler und Konstrukteur mit über 
 
 Neben meinem beruflichen Hintergrund studiere ich Physik an der TU Berlin und erweitere meine Fähigkeiten in Programmierung (Python, MATLAB, C++, Linux) und C an der 42 Berlin Coding School. Ständige Weiterentwicklung ist meine Leidenschaft, und ich liebe es, komplexe technische Probleme zu lösen und spannende Projekte zu realisieren.
 
-Schau dich gern auf meiner Seite um – ich freue mich auf den Austausch! 💻🚀
+Schau dich gern auf meiner Seite um – ich freue mich auf den Austausch! 💻 🚀
 
 ---
 
@@ -34,7 +34,7 @@ I'm Attila Kékesi – an experienced developer and designer with over 7 years o
 
 Alongside my professional background, I'm pursuing a degree in Physics at TU Berlin, while also expanding my skills in programming (Python, MATLAB, C++, Linux) and C at the 42 Berlin Coding School. Continuous learning is my passion, and I love tackling complex technical challenges and bringing exciting projects to life.
 
-Feel free to explore my page – I’m looking forward to connecting! 💻🚀
+Feel free to explore my page – I’m looking forward to connecting! 💻 🚀
 
 ---
 
@@ -43,7 +43,8 @@ Feel free to explore my page – I’m looking forward to connecting! 💻🚀
 [Attila Kékesi - Recommendations](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_recommendations.pdf)
 
 [GitHub - MiniChat](https://github.com/akekesi/minichat)  
-[GitHub - MiniTalk](https://github.com/akekesi/minitalk)  
+[GitHub - MiniTalk](https://github.com/akekesi/minitalk)
+
 [TikTok - BananaBrain](https://www.tiktok.com/@bananabrainhq?_t=8h7C9bUGPiK&_r=1&fbclid=IwAR0f25ARVCUq2GzSDxdVzbn693m9vZAz2Mu9QZtDt6kHaSDTWdIwWIzzY1s)  
 [YouTube - BananaBrain](https://www.youtube.com/@BananaBrainHQ/shorts)  
 [YouTube - Legolds](https://www.youtube.com/watch?v=Y66s1WhvMSI&list=PLgRD4Phr5Y-XT1UhKbF_F_0W7NlNutvxZ)  
