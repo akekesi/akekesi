@@ -39,7 +39,7 @@ Feel free to explore my page – I’m looking forward to connecting! 💻 🚀
 ---
 
 [Attila Kékesi - CV DE](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_cv_de.pdf)  
-[Attila Kékesi - CV EN]()  
+[Attila Kékesi - CV EN](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_cv_en.pdf)  
 [Attila Kékesi - Recommendations](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_recommendations.pdf)
 
 [GitHub - MiniChat](https://github.com/akekesi/minichat)  
