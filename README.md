@@ -25,8 +25,8 @@ Feel free to explore my page – I’m looking forward to connecting! 💻 🚀
 [GitHub - MiniChat (Python)](https://github.com/akekesi/minichat)  
 [GitHub - MiniTalk (C)](https://github.com/akekesi/minitalk)
 
-[TikTok - BananaBrain (Python)](https://www.tiktok.com/@bananabrainhq?_t=8h7C9bUGPiK&_r=1&fbclid=IwAR0f25ARVCUq2GzSDxdVzbn693m9vZAz2Mu9QZtDt6kHaSDTWdIwWIzzY1s)  
-[YouTube - BananaBrain (Python)](https://www.youtube.com/@BananaBrainHQ/shorts)  
+[TikTok - BananaBrain (Python Quiz)](https://www.tiktok.com/@bananabrainhq?_t=8h7C9bUGPiK&_r=1&fbclid=IwAR0f25ARVCUq2GzSDxdVzbn693m9vZAz2Mu9QZtDt6kHaSDTWdIwWIzzY1s)  
+[YouTube - BananaBrain (Python Quiz)](https://www.youtube.com/@BananaBrainHQ/shorts)  
 [YouTube - Legolds](https://www.youtube.com/watch?v=Y66s1WhvMSI&list=PLgRD4Phr5Y-XT1UhKbF_F_0W7NlNutvxZ)  
 [YouTube - Legomind](https://www.youtube.com/watch?v=g61y6o8w9KM&list=PLgRD4Phr5Y-XNZCLYAp_pjrH9JwWVzu3F)
 
