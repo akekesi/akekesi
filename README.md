@@ -1,5 +1,11 @@
 <div align="center">
 
+![Flexibility](https://img.shields.io/badge/Flexibility-✔✔✔✔✔-blue)
+![Problem-Solving](https://img.shields.io/badge/Problem_Solving-✔✔✔✔✔-blue)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-✔✔✔✔✔-blue)
+![Patience](https://img.shields.io/badge/Patience-✔✔✔✔✔-blue)
+![Mentoring](https://img.shields.io/badge/Mentoring-✔✔✔✔✔-blue)
+
 ![Python](https://img.shields.io/badge/Python-✔✔✔✔-blue)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-✔✔✔✔-blue)
 ![C](https://img.shields.io/badge/C-✔✔✔✔-blue)
