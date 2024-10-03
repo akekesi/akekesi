@@ -1,25 +1,25 @@
 <div align="center">
 
-![Flexibility](https://img.shields.io/badge/Flexibility-★★★★★-blue)
-![Problem-Solving](https://img.shields.io/badge/Problem_Solving-★★★★★-blue)
-![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-★★★★★-blue)
-![Patience](https://img.shields.io/badge/Patience-★★★★★-blue)
-![Mentoring](https://img.shields.io/badge/Mentoring-★★★★-blue)
+![Flexibility](https://img.shields.io/badge/Flexibility-✔-blue)
+![Problem-Solving](https://img.shields.io/badge/Problem_Solving-✔-blue)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-✔-blue)
+![Patience](https://img.shields.io/badge/Patience-✔-blue)
+![Mentoring](https://img.shields.io/badge/Mentoring-✔-blue)
 
-![Python](https://img.shields.io/badge/Python-★★★★-blue)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-★★★★-blue)
-![C](https://img.shields.io/badge/C-★★★★-blue)
-![MATLAB](https://img.shields.io/badge/MATLAB-★★★★-blue)
-![C++](https://img.shields.io/badge/C++-★★-blue)
-![Java](https://img.shields.io/badge/Java-★★-blue)
+![Python](https://img.shields.io/badge/Python-✔-blue)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-✔-blue)
+![C](https://img.shields.io/badge/C-✔-blue)
+![MATLAB](https://img.shields.io/badge/MATLAB-✔-blue)
+![C++](https://img.shields.io/badge/C++-✔-blue)
+![Java](https://img.shields.io/badge/Java-✔-blue)
 
-![Catia V5](https://img.shields.io/badge/Catia_V5-★★★★-blue)
-![SoliWorks](https://img.shields.io/badge/SolidWorks-★★★★-blue)
-![Pro/Engineer](https://img.shields.io/badge/ProEngineer-★★-blue)
+![Catia V5](https://img.shields.io/badge/Catia_V5-✔-blue)
+![SoliWorks](https://img.shields.io/badge/SolidWorks-✔-blue)
+![Pro/Engineer](https://img.shields.io/badge/ProEngineer-✔-blue)
 
-![Linux](https://img.shields.io/badge/Linux-★★★-blue)
-![Shell Script](https://img.shields.io/badge/Shell_Script-★★★-blue)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-★★-blue)
+![Linux](https://img.shields.io/badge/Linux-✔-blue)
+![Shell Script](https://img.shields.io/badge/Shell_Script-✔-blue)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-✔-blue)
 </div>
 
 ---
