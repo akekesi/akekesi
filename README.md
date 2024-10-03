@@ -1,17 +1,17 @@
-
----
+<!--
+--- # 
 👋 Hallo,
 
-ich bin Attila Kékesi – ein erfahrener Entwickler und Konstrukteur mit über 7 Jahren Erfahrung in der **Produktentwicklung** und **CAD-Konstruktion** (Catia V5, SolidWorks, Pro/Engineer). In den letzten Jahren habe ich mich immer mehr der **Softwareentwicklung** gewidmet, wo ich mit Python, GitHub und ParaView innovative Lösungen für **R&D** bei [Schaeffler Technologies AG & Co. KG](https://www.schaeffler.de/de/) vorangetrieben habe.
+ich bin Attila Kékesi – ein erfahrener Entwickler und Konstrukteur mit über 7 Jahren Erfahrung in der **Produktentwicklung** und **CAD-Konstruktion** (Catia V5, SolidWorks, Pro/Engineer). In den letzten Jahren habe ich mich immer mehr der **Softwareentwicklung** gewidmet, wo ich mit **Python, GitHub und ParaView** innovative Lösungen für **R&D** bei [Schaeffler Technologies AG & Co. KG](https://www.schaeffler.de/de/) vorangetrieben habe.
 
 Neben meinem beruflichen Hintergrund studiere ich Physik an der TU Berlin und erweitere meine Fähigkeiten in Programmierung (**Python, C, MATLAB, C++, Java, Linux, GitHub**). Ständige Weiterentwicklung ist meine Leidenschaft, und ich liebe es, komplexe technische Probleme zu lösen und spannende Projekte zu realisieren.
 
 Schau dich gern auf meiner Seite um – ich freue mich auf den Austausch! 💻 🚀
-
+-->
 ---
 👋 Hi,
 
-I'm Attila Kékesi – an experienced developer and designer with over 7 years of experience in **product development** and **CAD design** (Catia V5, SolidWorks, Pro/Engineer). In recent years, I’ve shifted my focus increasingly toward **software development**, where I’ve driven innovative **R&D** solutions using Python, GitHub, and ParaView at [Schaeffler Technologies AG & Co. KG](https://www.schaeffler.de/de/).
+I'm Attila Kékesi – an experienced developer and designer with over 7 years of experience in **product development** and **CAD design** (Catia V5, SolidWorks, Pro/Engineer). In recent years, I’ve shifted my focus increasingly toward **software development**, where I’ve driven innovative **R&D** solutions using **Python, GitHub, and ParaView** at [Schaeffler Technologies AG & Co. KG](https://www.schaeffler.de/de/).
 
 Alongside my professional background, I'm pursuing a degree in Physics at TU Berlin, while also expanding my skills in programming (**Python, C, MATLAB, C++, Java, Linux, GitHub**). Continuous learning is my passion, and I love tackling complex technical challenges and bringing exciting projects to life.
 
