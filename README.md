@@ -39,19 +39,19 @@ Feel free to explore my page – I’m looking forward to connecting! 💻 🚀
 ![Patience](https://img.shields.io/badge/Patience-✔-blue)
 ![Mentoring](https://img.shields.io/badge/Mentoring-✔-blue)
 
-![Python](https://img.shields.io/badge/Python-✔-blue)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-✔-blue)
-![C](https://img.shields.io/badge/C-✔-blue)
-![MATLAB](https://img.shields.io/badge/MATLAB-✔-blue)
-![C++](https://img.shields.io/badge/C++-✔-blue)
-![Java](https://img.shields.io/badge/Java-✔-blue)
+[![Python](https://img.shields.io/badge/Python-✔-blue)](https://www.python.org/)
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-✔-blue)](https://customtkinter.tomschimansky.com/)
+[![C](https://img.shields.io/badge/C-✔-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![MATLAB](https://img.shields.io/badge/MATLAB-✔-blue)](https://www.mathworks.com/products/matlab.html)
+[![C++](https://img.shields.io/badge/C++-✔-blue)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Java](https://img.shields.io/badge/Java-✔-blue)](https://www.java.com/en/)
 
-![Linux](https://img.shields.io/badge/Linux-✔-blue)
-![Shell Script](https://img.shields.io/badge/Shell_Script-✔-blue)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-✔-blue)
+[![Linux](https://img.shields.io/badge/Linux-✔-blue)](https://www.linux.org/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-✔-blue)](https://en.wikipedia.org/wiki/Shell_script)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-✔-blue)](https://openai.com/)
 
-![Catia V5](https://img.shields.io/badge/Catia_V5-✔-blue)
-![SoliWorks](https://img.shields.io/badge/SolidWorks-✔-blue)
+[![Catia V5](https://img.shields.io/badge/Catia_V5-✔-blue)](https://www.3ds.com/de/produkte-und-services/catia/)
+[![SoliWorks](https://img.shields.io/badge/SolidWorks-✔-blue)](https://www.solidworks.com)
 
-![ParaView](https://img.shields.io/badge/ParaView-✔-blue)
+[![ParaView](https://img.shields.io/badge/ParaView-✔-blue)](https://www.paraview.org/)
 </div>
