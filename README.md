@@ -52,4 +52,6 @@ Feel free to explore my page – I’m looking forward to connecting! 💻 🚀
 
 ![Catia V5](https://img.shields.io/badge/Catia_V5-✔-blue)
 ![SoliWorks](https://img.shields.io/badge/SolidWorks-✔-blue)
+
+![ParaView](https://img.shields.io/badge/ParaView-✔-blue)
 </div>
