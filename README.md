@@ -18,17 +18,13 @@ Alongside my professional background, I'm pursuing a degree in Physics at TU Ber
 Feel free to explore my page – I’m looking forward to connecting! 💻 🚀
 
 ---
-[Attila Kékesi - CV DE](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_cv_de.pdf)  
-[Attila Kékesi - CV EN](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_cv_en.pdf)  
-[Attila Kékesi - Recommendations](https://github.com/akekesi/akekesi/blob/main/attila_kekesi_recommendations.pdf)
+[GitHub - MiniChat](https://github.com/akekesi/minichat) - A Python GUI App for Chat, Custom Logo Creation, and Item Management with OpenAI Integration  
+[GitHub - MiniTalk ](https://github.com/akekesi/minitalk) - Real-Time Client-Server Communication Using UNIX Signals with Unicode Support  
 
-[GitHub - MiniChat (Python)](https://github.com/akekesi/minichat)  
-[GitHub - MiniTalk (C)](https://github.com/akekesi/minitalk)
-
-[TikTok - BananaBrain (Python Quiz)](https://www.tiktok.com/@bananabrainhq?_t=8h7C9bUGPiK&_r=1&fbclid=IwAR0f25ARVCUq2GzSDxdVzbn693m9vZAz2Mu9QZtDt6kHaSDTWdIwWIzzY1s)  
-[YouTube - BananaBrain (Python Quiz)](https://www.youtube.com/@BananaBrainHQ/shorts)  
-[YouTube - Legolds](https://www.youtube.com/watch?v=Y66s1WhvMSI&list=PLgRD4Phr5Y-XT1UhKbF_F_0W7NlNutvxZ)  
-[YouTube - Legomind](https://www.youtube.com/watch?v=g61y6o8w9KM&list=PLgRD4Phr5Y-XNZCLYAp_pjrH9JwWVzu3F)
+[TikTok - BananaBrain](https://www.tiktok.com/@bananabrainhq?_t=8h7C9bUGPiK&_r=1&fbclid=IwAR0f25ARVCUq2GzSDxdVzbn693m9vZAz2Mu9QZtDt6kHaSDTWdIwWIzzY1s) - Python Quiz  
+[YouTube - BananaBrain](https://www.youtube.com/@BananaBrainHQ/shorts) - Python Quiz  
+[YouTube - Legolds](https://www.youtube.com/watch?v=Y66s1WhvMSI&list=PLgRD4Phr5Y-XT1UhKbF_F_0W7NlNutvxZ) - StopMotion  
+[YouTube - Legomind](https://www.youtube.com/watch?v=g61y6o8w9KM&list=PLgRD4Phr5Y-XNZCLYAp_pjrH9JwWVzu3F) - Boardgame  
 
 ---
 <div align="center">
