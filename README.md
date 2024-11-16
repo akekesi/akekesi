@@ -19,7 +19,8 @@ Feel free to explore my page – I’m looking forward to connecting! 💻 🚀
 
 ---
 [GitHub - MiniChat](https://github.com/akekesi/minichat) - A Python GUI App for Chat, Custom Logo Creation, and Item Management with OpenAI Integration  
-[GitHub - MiniTalk ](https://github.com/akekesi/minitalk) - Real-Time Client-Server Communication Using UNIX Signals with Unicode Support  
+[GitHub - MiniTalk](https://github.com/akekesi/minitalk) - Real-Time Client-Server Communication Using UNIX Signals with Unicode Support  
+[GitHub - Connect4](https://github.com/akekesi/Connect4) - A Python project implementing Connect4 with random and minimax AI agents, part of my TU Berlin assignment.  
 
 [TikTok - BananaBrain](https://www.tiktok.com/@bananabrainhq?_t=8h7C9bUGPiK&_r=1&fbclid=IwAR0f25ARVCUq2GzSDxdVzbn693m9vZAz2Mu9QZtDt6kHaSDTWdIwWIzzY1s) - Python Quiz  
 [YouTube - BananaBrain](https://www.youtube.com/@BananaBrainHQ/shorts) - Python Quiz  
